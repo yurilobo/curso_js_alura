@@ -1,0 +1,4 @@
+para rodar o arquivo: node variaveis.js
+
+
+3 escopos: bloco, função, globals 
